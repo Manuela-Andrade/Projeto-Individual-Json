@@ -1,0 +1,94 @@
+{
+    "Clientes": [
+        {
+            "id": 1,
+            "nome": "Manuela de Andrade",
+            "telefone": 2100000001,
+            "cpf": 12345678921,
+            "endereco": "Rua Francisco Xavier 200"
+            
+        },
+        {
+            "id": 2,
+            "nome": "Isabelle Rodrigues",
+            "telefone": 2100000002,
+            "cpf": 17045678921,
+            "endereco": "Rua Siqueira Campos 21"  
+        },
+        {
+            "id": 3,
+            "nome": "Maiara Medeiros",
+            "telefone": 2100000003,
+            "cpf": 13245987921,
+            "endereco": "Rua Salvadores da Pátria 50"  
+            
+        },
+        {
+            "id": 4,
+            "nome": "Antonia Vieira",
+            "telefone": 2100000004,
+            "cpf": 32156327892,
+            "endereco": "Rua Santa Luzia 234"  
+        }
+    ],
+    "Livros": [
+        {
+            "id": 1,
+            "autor": "Suzanne Collins",
+            "titulo": "Jogos Vorazes - Em chamas",
+            "codigoisbn": 234156,
+            "edicao": 1
+        },
+        {
+            "id": 2,
+            "autor": "Ana Beatriz Brandão",
+            "titulo": "A Garota dos Olhos Esmeralda",
+            "codigoisbn": 564368,
+            "edicao": 2
+        },
+        {
+            "id": 3,
+            "autor": "Kiera Cass",
+            "titulo": "A Seleção",
+            "codigoisbn": 457854,
+            "edicao": 1
+        },
+        {
+            "id": 4,
+            "autor": "Raphael Montes",
+            "titulo": "Suicidas",
+            "codigoisbn": 700623,
+            "edicao": 3
+        }
+    ],
+    "funcionarios": [
+        {
+            "id": 1,
+            "nome": "Marcelle Rocha",
+            "cpf": 64738295032,
+            "endereco": "Rua Ouvidio Romeiro 321",
+            "cargo": "Bibliotecária"
+        },
+        {
+            "id": 2,
+            "nome": "Matheus Araujo",
+            "cpf": 67934256843,
+            "endereco": "Rua Uruguaina 32",
+            "cargo": "Atendente"
+        },
+        {
+            "id": 3,
+            "nome": "Ariane Liberato",
+            "cpf": 65476423478,
+            "endereco": "Rua Tancredo Neves",
+            "cargo": "Caixa"
+        },
+        {
+            "id": 4,
+            "nome": "Pedro Henrique",
+            "cpf": 63467357875,
+            "endereco": "Rua Embau 324",
+            "cargo": "Faxineiro"
+        }
+    ]
+}
